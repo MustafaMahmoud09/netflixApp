@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Netflix</string>
+    <string name="netflix" translatable="false">NETFLIX</string>
+    <string name="favorite">Favorite</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="search_hint">search</string>
+    <string name="cancel_saving">cancel saving the movie</string>
+    <string name="not_connect">You are not connected to the Internet</string>
+    <string name="restored_internet">Internet connection has been restored</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="last_week">Last Week</string>
+    <string name="popular">Popular on Netflix</string>
+</resources>

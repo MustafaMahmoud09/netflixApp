@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="Netflix.app" target="11" />
+      <module name="Netflix.data.ds.local.entity" target="11" />
+      <module name="Netflix.data.ds.local.room" target="11" />
+      <module name="Netflix.data.ds.remote.api" target="11" />
+      <module name="Netflix.data.ds.remote.dto" target="11" />
+      <module name="Netflix.data.repo.iRepository" target="11" />
+      <module name="Netflix.data.repo.iRepository.pagination" target="11" />
+      <module name="Netflix.data.repo.mapper" target="11" />
+      <module name="Netflix.data.repo.pagination" target="11" />
+      <module name="Netflix.data.repo.repository" target="11" />
+      <module name="Netflix.domain.useCase" target="11" />
+      <module name="Netflix.presentation.uiElement" target="11" />
+      <module name="Netflix.presentation.uiState.iViewModel" target="11" />
+      <module name="Netflix.presentation.uiState.state" target="11" />
+      <module name="Netflix.presentation.uiState.viewModel" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

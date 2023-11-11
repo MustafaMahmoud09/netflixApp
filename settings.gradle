@@ -1,0 +1,31 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Netflix"
+include ':app'
+include ':presentation:uiElement'
+include ':presentation:uiState:viewModel'
+include ':domain:model'
+include ':data:repo:iRepository'
+include ':data:repo:repository'
+include ':data:ds:remote:dto'
+include ':data:ds:remote:api'
+include ':data:ds:local:room'
+include ':data:ds:local:entity'
+include ':data:repo:mapper'
+include ':presentation:uiState:state'
+include ':data:repo:pagination'
+include ':domain:useCase'
+include ':data:repo:IRepository'
+include ':data:repo:IRepository'
